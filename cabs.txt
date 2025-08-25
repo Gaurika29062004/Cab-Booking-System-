@@ -1,0 +1,4 @@
+101 arun 2 1
+102 sunil 9 1
+103 sunny 5 1
+104 sahil 0 1
