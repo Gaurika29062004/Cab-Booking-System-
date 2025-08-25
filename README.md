@@ -45,7 +45,7 @@ g++ cab_booking_system.cpp -o cab_booking_system
 0. Exit
 Choose: 
 
-** Cab Table**
+**Cab Table**
 
 | ID  | Driver | Location | Available | RideID |
 | --- | ------ | -------- | --------- | ------ |
